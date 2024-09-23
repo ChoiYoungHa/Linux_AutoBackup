@@ -14,8 +14,6 @@
 <br>
 
 
-<br>
-
 # 🚨 실행 순서
 ### 🍦ShellScript 작성
 
